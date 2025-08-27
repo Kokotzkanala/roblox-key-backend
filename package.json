@@ -1,7 +1,7 @@
 {
   "name": "roblox-key-backend",
   "version": "1.0.0",
-  "description": "3-hour key system with IP limit",
+  "description": "Backend for Roblox key system",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
