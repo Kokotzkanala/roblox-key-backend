@@ -1,7 +1,6 @@
 {
   "name": "roblox-key-backend",
   "version": "1.0.0",
-  "description": "Backend for Roblox key system",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
